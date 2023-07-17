@@ -1,0 +1,6 @@
+$ ./sbsh
+($) /bin/ls
+sbsh main.c shell.c
+($)
+($) exit
+$

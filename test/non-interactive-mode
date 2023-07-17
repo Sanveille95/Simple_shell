@@ -1,0 +1,11 @@
+$ echo "/bin/ls" | ./sbsh
+hsh main.c shell.c test_ls_2
+$
+$ cat test_ls_2
+/bin/ls
+/bin/ls
+$
+$ cat test_ls_2 | ./sbsh
+sbsh main.c shell.c test_ls_2
+sbsh main.c shell.c test_ls_2
+$
