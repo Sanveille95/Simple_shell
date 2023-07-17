@@ -1,7 +1,7 @@
 # 0x16. C - Simple Shell
 ## C - Group project(Syscall)
 
-** This project is the teamwork of Miss Sandra Morgan Nwoley and Miss Brigitte Koranteng from Cohort 14 of the ALX SE Programme. This task is to guide us to create our own simple_shell program without the use of google. Come with us, as we walk you through our project. Herewith, in this document, are the guidelines to direct us through our coding path. This has to be fun! **
+** This project is the teamwork of Miss Sandra Morgan Nwoley and Miss Brigitte Koranteng from Cohort 15 of the ALX SE Programme. This task is to guide us to create our own simple_shell program without the use of google. Come with us, as we walk you through our project. Herewith, in this document, are the guidelines to direct us through our coding path. This has to be fun! **
 
 # Tasks
 0. ### Betty would be proud(mandatory)
@@ -20,7 +20,7 @@
      You have to handle the “end of file” condition (Ctrl+D)
 
 2. ### Simple shell 0.2(mandatory)
-     Simple shell 0.1 
+     Simple shell 0.1
      Handle command lines with arguments
 
 3. ### Simple shell 0.3(mandatory)
